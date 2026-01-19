@@ -1,0 +1,1 @@
+// JS logic for homepage grid/list toggle
